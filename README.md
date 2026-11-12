@@ -11,8 +11,6 @@ Projeto acadêmico desenvolvido em Java para simular operações básicas de uma
 ## Tecnologias Utilizadas
 
 - Java
-- Git
-- GitHub
 
 ## Conceitos Praticados
 
